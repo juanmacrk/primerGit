@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716066329 source:c:\users\juanma\desktop\programacion laboratorio  librerias codeblock\tp final 1\tp final 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
